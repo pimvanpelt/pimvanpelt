@@ -7,4 +7,4 @@ has been rolled up into the website you see in front of you today.
 
 You can find me on <a rel="me" href="https://ublog.tech/@IPngNetworks">Mastodon</a> where I run a small server [uBlog.tech](https://ublog.tech).
 I'm the founder/owner of [IPng Networks](https://ipng.ch), a small software company that develops free, open source routing software, that is
-capable of forwarding 100Mpps and 100Gbps of traffic on commodity hardware.
+capable of forwarding >1Gpps and >1Tbps of traffic on commodity hardware.
